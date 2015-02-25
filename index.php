@@ -31,6 +31,7 @@ require_once('common.php');
       "image" : "http://outils.biblissima.fr/eulexis/img/greek-scribe-small.png",
       "url" : "http://outils.biblissima.fr/eulexis",
       "description" : "Eulexis permet de lemmatiser ou fléchir un texte en grec ancien et de rechercher dans des dictionnaires de grec ancien en plusieurs langues",
+      "applicationCategory": "Linguistics ",
       "provider" : {
         "@type" : "Organization",
         "name" : "Equipex Biblissima"
